@@ -1,5 +1,4 @@
-var redirect_uri = "https://ami-kimura.github.io/20221108_spotify_api_sample/result/"; // change this your value
-//var redirect_uri = "http://127.0.0.1:5500/index.html";
+var redirect_uri = "https://ami-kimura.github.io/spotify-API-sample/"; // change this your value
  
 
 var client_id = ""; 
